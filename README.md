@@ -1,3 +1,7 @@
+---
+typora-root-url: image
+---
+
 # PT_JPL_global
 **Global Estimates of Terrestrial Evapotranspiration via PT_JPL model**
 
@@ -7,4 +11,6 @@ References:
 > - Zhang, K., Ma, J., Zhu, G., Ma, T., Han, T., and Feng, L.L. (2017). Parameter sensitivity analysis and optimization for a satellite-based evapotranspiration model across multiple sites using Moderate Resolution Imaging Spectroradiometer and flux data. Journal of Geophysical Research: Atmospheres 122, 230–245. doi: 10.1002/2016JD025768
 
 ![ZHK.PTJPL](image\ZHK.PTJPL.jpg)
+
+![ZHK.PTJPL](/ZHK.PTJPL.jpg)
 
